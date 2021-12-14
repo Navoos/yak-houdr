@@ -1,8 +1,7 @@
 # Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
 
-- 🔭 I’m currently working on a Project named **CPP-Modules** you can check it [here](https://github.com/barimehdi77/CPP-Modules)
 - 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
-- 📫 How to reach me: [facebook](https://www.facebook.com/bari.mehdi.77/) - [twitter](https://twitter.com/Barimehdi77) - [linkdin](https://www.linkedin.com/in/Barimehdi77/)
+- 📫 How to reach me: [facebook]() - [twitter]() - [linkdin]()
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
