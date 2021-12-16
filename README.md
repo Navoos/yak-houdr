@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://github.com/barimehdi77/barimehdi77/blob/main/wave.gif" width="30px">
 
 - 🌱 I’m currently learning: C++, PYTHON, CYBERSECURITY and MACHINE LEARNING ...
-- 📫 How to reach me: [facebook]() - [twitter]() - [linkdin]()
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
