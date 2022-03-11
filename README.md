@@ -21,5 +21,6 @@
 
 ---
 ### 👨‍💻 My 42 status
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=yakhoudr)](https://github.com/yak-houdr)
-[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/yakhoudr?cursus=C%20reloaded)](https://github.com/yak-houdr)
+  ## Coming soon
+<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=yakhoudr)](https://github.com/yak-houdr)
+[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/yakhoudr?cursus=C%20reloaded)](https://github.com/yak-houdr) -->
